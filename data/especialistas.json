@@ -1,0 +1,11 @@
+{
+    "dataespecialista": {
+        "123": {
+            "identificacion": "123",
+            "nombre y apellido": "osman",
+            "numero de consultorio": "12",
+            "horario de atencion": "tarde",
+            "correo eletronico": "osmangamil.com"
+        }
+    }
+}

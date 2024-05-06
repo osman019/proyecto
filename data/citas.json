@@ -1,0 +1,25 @@
+{
+    "datacitas": {
+        "a": {
+            "identificacion": "a",
+            "nombre y apellido": "a",
+            "tipo de cita": "a",
+            "correo eletronico": "a",
+            "ingrese fecha": "a"
+        },
+        "1234567": {
+            "identificacion": "1234567",
+            "nombre y apellido": "osman ortiz",
+            "tipo de cita": "odontologia",
+            "correo eletronico": "osjnjuih@gvfty",
+            "ingrese fecha": "12 07 2024"
+        },
+        "1234": {
+            "identificacion": "1234",
+            "especialidad": "Pediatria",
+            "nombre y apellido": "osman",
+            "correo eletronico": "osiiaiao",
+            "ingrese fecha": "19292"
+        }
+        }
+    }

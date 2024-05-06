@@ -1,0 +1,14 @@
+{
+    "datapacientes": {
+        "12345": {
+            "identificacion": "12345",
+            "nombre y apellidos": "osman ortiz",
+            "numero telefonico": "123",
+            "numero de celular": "3222167943",
+            "fecha de nacimiento": "12/09/2004",
+            "edad": "19",
+            "genero": "masculino"
+        },
+        "1234567": "datapacientes"
+    }
+}
